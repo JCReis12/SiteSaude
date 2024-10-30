@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-left: 170px;
+}
+
+.titulo1, .titlee{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Lucida Sans';
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.img1{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+}
+.container{
+    display: flex;
+    align-items: center;
+    width: 70vw;
+    gap: 40px;
+    justify-content: center;
+}
+.img2{
+    width: 1100px;
+    height: 300px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 200px;
+}
+.barradepesquisa{
+    width: 400px;
+    height: 200px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 500px;
+}
+.icones2{
+    background-color: #ADF5CB;
+    width: 70px;
+    height: 70px;
+    border-radius: 7px;
+}
+.img3, .img4, .img5, .img6, .img7, .img8{
+    width: 70px;
+    height: 70px;
+}
+.icones{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 100px;
+}
+.qmnos{
+    margin-top: 90px;
+    margin-left: 70px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: left;
+    margin-right: 70px;
+}
+.textanun{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    gap: 100px;
+}
+.logo2{
+    width: 100px;
+    height: 100px;
+}
+.who{
+    font-size: large;
+}
+.texto{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px; 
+}
+.anuncio{
+    width: 400px;
+    height: 300px;
+
+}
+.square{
+    background-color: #F3F3F3;
+    width: 300px;
+    height: 250px;
+    border-radius: 7px;
+    margin-top: 50px;
+}
+.squares{
+    margin-top: 50px;
+}
+.botton{
+    background-color: #ADF5CB;
+    width: 160px;
+    height: 50px;
+    border-radius: 25px;
+    margin-top: 40px;
+    margin-left: 55px;
+}
+.conhecer{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 130px;
+    justify-content: center;
+    display: flex;
+}
+.quadradinhos{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 80px;
+    flex-wrap: wrap;
+    width: 80vw;
+}
+.all{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.rodape{
+    width: 1550px;
+    height: 100px;
+    background-color: black;
+    color: white;
+
+}
+.logotexto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 30px;
+}
+.rodtext{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 100px;
+}
+.menu{
+    background-color:#ADF5CB;
+    width:  1550px;
+    height: 50px;
+    margin-bottom: 30px;
+}
